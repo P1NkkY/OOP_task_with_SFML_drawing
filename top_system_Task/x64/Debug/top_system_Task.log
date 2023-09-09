@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(154,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(155,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(155,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(163,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(163,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(164,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(164,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(172,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(174,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++_projects\top_system_Task\top_system_Task\main.cpp(174,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  top_system_Task.vcxproj -> D:\C++_projects\top_system_Task\x64\Debug\top_system_Task.exe
