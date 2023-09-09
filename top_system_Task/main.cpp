@@ -1,7 +1,7 @@
-/*Необходимо привести пример программы или библиотеки на C++, которая выводит на экран различные
-геометрические фигуры: круг, квадрат, треугольник, прямоугольник и т.п. Глубина проработки примера
-(количество фигур, параметры, методы) на Ваше усмотрение. Программа не обязательно должна запускаться и работать (хотя это будет плюсом).
-В задании Вам необходимо продемонстрировать умение использовать ООП. Просим не пользоваться библиотекой QT при выполнении задания.*/
+/*It is necessary to provide an example of a program or library in C++ that displays various
+geometric shapes: circle, square, triangle, rectangle, etc. Depth of elaboration of the example
+(number of figures, parameters, methods) at your discretion. The program does not have to be up and running (although this would be a plus).
+In the assignment you need to demonstrate your ability to use OOP. Please do not use the QT library when completing this task.*/
 
 #include <iostream>
 #include <SFML/Graphics.hpp>
@@ -49,7 +49,7 @@ private:
     int height;                             // Rectangle's height
     int width;                              // Rectangle's width
 
-    //! Метод SetCoordinates записывает координаты фигур в coordinates
+    //! ГЊГҐГІГ®Г¤ SetCoordinates Г§Г ГЇГЁГ±Г»ГўГ ГҐГІ ГЄГ®Г®Г°Г¤ГЁГ­Г ГІГ» ГґГЁГЈГіГ° Гў coordinates
     //! Method SetCoodinates records the coordinates of the shapes into vector coordinates
     void SetCoordinates(vector<pair<int, int>>& coordinates, string str)
     {
